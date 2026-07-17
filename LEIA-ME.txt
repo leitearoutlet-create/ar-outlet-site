@@ -1,0 +1,28 @@
+SITE A.R OUTLET
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+
+COMO ABRIR:
+1. Extraia o arquivo ZIP.
+2. Abra o arquivo index.html no navegador.
+
+COMO PUBLICAR GRATUITAMENTE NO GITHUB PAGES:
+1. Crie uma conta em github.com.
+2. Crie um novo repositório chamado ar-outlet.
+3. Envie os três arquivos.
+4. Vá em Settings > Pages.
+5. Em Branch, escolha main e /root.
+6. Salve. O GitHub mostrará o endereço gratuito do site.
+
+Você também pode publicar pelo Netlify:
+1. Entre em netlify.com.
+2. Arraste a pasta do site para a área de publicação.
+3. O site será publicado gratuitamente.
+
+DADOS CONFIGURADOS:
+WhatsApp: (11) 96402-2831
+Instagram: @a.r.outlet
+Endereço: Av. Getúlio Vargas, 1033 — Calmon Viana — Poá/SP
